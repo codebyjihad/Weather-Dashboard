@@ -30,5 +30,5 @@ A modern and responsive Weather Dashboard built with **React**, **Redux Toolkit*
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-dashboard.git
+git https://github.com/codebyjihad/Weather-Dashboard.git
 cd weather-dashboard
